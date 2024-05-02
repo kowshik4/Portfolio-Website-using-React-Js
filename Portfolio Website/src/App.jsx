@@ -3,6 +3,7 @@ import './App.css';
 import Header from './components/header/Header';
 import Home from './components/home/Home.jsx';
 import About from './components/about/About.jsx';
+import Skills from './components/skills/Skills.jsx';
 
 const App = () => {
 
@@ -13,6 +14,7 @@ const App = () => {
       <main className='main'>
         <Home />
         <About />
+        <Skills />
       </main>
     </>
   );
