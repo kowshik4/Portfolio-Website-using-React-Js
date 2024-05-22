@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "homepage": "https://kowshik4.github.io/Portfolio-Website-using-React-Js/",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
     "build": "vite build",
